@@ -102,16 +102,13 @@ Completing a level automatically unlocks the next level in the level selection m
 ## 🔍 Preview
 
 ### Gameplay Screenshot
-
-
+![Gameplay](Screenshots/gameplay.png)
 
 ### Main Menu
-
-
+![MainMenu](Screenshots/main_menu.png)
 
 ### Level Selection
-
-
+![LevelMenu](Screenshots/level_menu.png)
 
 ---
 
