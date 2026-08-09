@@ -52,3 +52,66 @@ The goal is to complete each level by navigating through challenging parkour env
 
 ---
 
+## 🎯 Goal of the Project
+
+This project was created for learning and experimenting with first-person movement and parkour mechanics:
+
+- First-person controller development
+- Sprinting and sliding mechanics
+- Wall running and wall jumping
+- Double-jump implementation
+- Momentum-based movement
+- Moving platform mechanics
+- Level design and obstacle placement
+- Scene management and level unlocking
+- UI and menu design
+- Audio management and persistent settings
+
+---
+
+## 🗺 Levels
+
+FreeFall currently contains **6 playable levels**, each designed with different obstacles and parkour challenges.
+
+The player must complete the current level to unlock the next level.
+
+---
+
+## ⏸️ Game Systems
+
+### Pause Menu
+
+Press **Esc** to open or close the pause menu.
+
+The pause menu provides options to:
+
+- Resume the game
+- Restart the current level
+- Return to the main menu
+
+### Death System
+
+If the player falls from the level, a death screen appears with an option to retry the current level.
+
+### Level Unlocking
+
+Completing a level automatically unlocks the next level in the level selection menu.
+
+---
+
+## 🔍 Preview
+
+### Gameplay Screenshot
+
+
+
+### Main Menu
+
+
+
+### Level Selection
+
+
+
+---
+
