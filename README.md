@@ -115,3 +115,18 @@ Completing a level automatically unlocks the next level in the level selection m
 
 ---
 
+## 📚 References
+
+### 🎮 Tutorials
+
+- First Person Movement in 10 Minutes - https://www.youtube.com/watch?v=f473C43s8nE
+- First-Person Parkour System for Playmaker - https://www.youtube.com/watch?v=Qf9N7KITakc
+
+### 🛠 Unity Official Resources
+
+- Unity Documentation - https://docs.unity3d.com/Manual/index.html
+- Unity Learn - https://learn.unity.com/
+
+<br>
+
+👨‍💻 **Developed by** – @Arijit2175
